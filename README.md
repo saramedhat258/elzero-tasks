@@ -1,3 +1,3 @@
-##Elzero Typescript tasks
+## Elzero Typescript tasks
 
-##codewars problem
+## codewars problem
